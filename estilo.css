@@ -1,0 +1,38 @@
+
+html {
+background-color: rgb(65, 7, 7);
+font-family: arial;
+font-size: 12px;
+}    
+
+.container{
+width: 100%;
+height:700px;
+margin:auto;
+}    
+
+ul li {
+text-align: center;
+text-decoration-line: none;
+list-style: none;
+font-size: 40px;
+color:black ;
+display:inline;
+padding: 90px;
+
+}
+
+h1 {
+text-align: center;
+font-size: 60px;
+color:azure
+} 
+
+h2{
+text-align: center;
+font-size: 40px;
+color:azure
+}    
+
+
+
